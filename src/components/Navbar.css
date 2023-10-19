@@ -1,0 +1,11 @@
+.logo {
+    font-size: 2rem;
+  }
+  
+  .logo:hover {
+    cursor: pointer;
+  }
+  
+  .content {
+    margin-top: 10%;
+  }
