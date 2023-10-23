@@ -1,13 +1,12 @@
 import './App.css'
-import Navbar from './components/Navbar'
-import About from './components/About'
-import Contact from './components/Contact'
-import Experience from './components/Experience'
-import Profile from './components/Profile'
-import Projects from './components/Projects'
+import Navbar from './components/Navbar/Navbar'
+import About from './components/About/About'
+import Contact from './components/Contact/Contact'
+import Experience from './components/Experience/Experience'
+import Profile from './components/Profile/Profile'
+import Projects from './components/Projects/Projects'
 
 function App() {
-
   return (
     <>
       <Navbar></Navbar>

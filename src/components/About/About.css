@@ -5,6 +5,7 @@
   }
   
   .about-containers {
+    display: flex;
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
@@ -14,8 +15,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  
-  .about-containers,
+
   .about-details-container {
     display: flex;
   }
@@ -46,6 +46,7 @@
   }
   
   .section__pic-container {
+    display: flex;
     height: 400px;
     width: 400px;
     margin: auto 0;
