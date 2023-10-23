@@ -1,4 +1,5 @@
 import { Button } from '@mui/material';
+import './Projects.css'
 
 const ProjectItem = ({ title, imageUrl, githubLink, demoLink }) => {
   return (
